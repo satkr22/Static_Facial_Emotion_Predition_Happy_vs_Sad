@@ -35,8 +35,5 @@ The model is a Convolutional Neural Network (CNN) with the following layers:
 ## Author
 
 **Satyam Kumar**  
-🔗 [GitHub](https://github.com/satkr22)
+[GitHub](https://github.com/satkr22)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).Dependencies
